@@ -13,3 +13,7 @@ Trained Using data that was rendered out of houdini and PDG
 Decided to head back to Keras because there were a flurry of yolo3 demonstrations that showcased its application on coco and various datasets but it was easier to implement a ssd multibox detector using this repo:
 https://github.com/pierluigiferrari/ssd_keras/blob/master/README.md
 https://github.com/pierluigiferrari/data_generator_object_detection_2d
+
+## Day 3 - 18/08/2019 -
+Rendered F:/MachineLearning/houdini/bees/WaxMothGlyp_v07.hip but this takes too long to train.
+I also need to split out training and validation.
